@@ -4,7 +4,7 @@
 # Gravity Force mod #
 
 ## About ##
-The repositories for reporting issues for Gravity Force
+The repository for reporting issues for Gravity Force
 
 ## License ##
 * Gravity Force is licensed All Rights Reserved
