@@ -1,5 +1,4 @@
 [![](http://cf.way2muchnoise.eu/versions/557778.svg)](https://www.curseforge.com/minecraft/mc-mods/gravity-force)
-[![](https://modrinth-utils.vercel.app/api/badge/versions?id=fKJKPmqm)](https://modrinth.com/mod/gravity-force)
 
 # Gravity Force mod #
 
